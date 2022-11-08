@@ -8,3 +8,5 @@ pip install mmcv_full==1.4.8
 pip install opencv-python==4.5.5.64
 pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 torchaudio==0.9.0 -f https://download.pytorch.org/whl/torch_stable.html
 ```
+# License
+This project is released under the [Apache 2.0 license](https://github.com/linquanxu/self-supervised_AC/blob/main/LICENSE).
